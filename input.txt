@@ -1,0 +1,7 @@
+6
+aa bb cc 3 3 3 1000
+aa bb cc 3 3 3 -1000
+aa bb cc 3 3 3 -101400
+aa bb cc 3 3 3 1000
+aa bb cc 3 3 3 1000
+das ad da 12 4 6 14
