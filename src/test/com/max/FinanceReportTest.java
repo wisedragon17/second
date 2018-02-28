@@ -82,7 +82,7 @@ public class FinanceReportTest {
         p[0] = new Payment("альбина",5,4,3,155);
         p[1] = new Payment("настя",3,3,3,223);
         p[2] = new Payment("корова",15,1,7,6105);
-        p[3] = new Payment("жируха",5,3,18,512505);
+        p[3] = new Payment("енот",5,3,18,512505);
         p[4] = new Payment("шина",14,3,5,5);
         p[5] = new Payment("девушка",5,12,31,611251205);
 
@@ -112,8 +112,8 @@ public class FinanceReportTest {
         Payment p[] = new Payment[6];
         p[0] = new Payment("рома",5,4,3,155);
         p[1] = new Payment("вика",3,3,3,223);
-        p[2] = new Payment("ща",15,1,7,6105);
-        p[3] = new Payment("завтра сдам",5,3,18,512505);
+        p[2] = new Payment("еврей",15,1,7,6105);
+        p[3] = new Payment("егор",5,3,18,512505);
         p[4] = new Payment("кент",14,3,5,5);
         p[5] = new Payment("дворник",5,12,31,611251205);
 
